@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Currículo FERNANDA LAIA</title>
+</head>
+<body>
+<h1>FERNANDA CARNEIRO DE LAIA</h1>
+<section>
+    <h2>Informações Pessoais</h2>
+    <li>Feminino</li>
+        <li>36 anos</li>
+        <li>solteira</li>
+    </li>
+    <h2>Informações de Contato</h2><ul>
+    <li> Telefone: (11) 977749993</li>
+        <li>Email: fenandalaia@outlook.com</li>
+        <li>Endereço: Rua Deputado Cyro Albuquerque, 214 A- Zona oeste, São Paulo, SP</li>
+<h2>Objetivo:</h2>
+    <li>Estágio Desenvolvedora Web</li>
+    <h2>Resumo de qualificações:</h2>
+        <li>Carreira em desenvolvimento na aréa de desenvolvimento de web sites.</li>
+            <li>Profissional empenhada em crescer nesta área de atuação</li>
+            <h2>Formação Acadêmica:</h2>
+            <li>Admistração de Empresas- Universidade de Mogi das Cruzes, campus Lapa</li>
+            <h3>Cursos</h3>
+            <li>Desenvolvedora Web, cursando</li>
+            <li>Inglês, cursando</li>
+            
+        </li>
+    </h2>
+    </ul>
+
+</section>
+</body>
+</html>
